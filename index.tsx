@@ -23,9 +23,9 @@ const initialFlyerData = {
         ]
     },
     gallery: {
-        image1: "images/interagir.jpg",
-        image2: "images/dynamique.jpg",
-        image3: "images/Se-connaitre.jpg",
+        image1: "/images/interagir.jpg",
+        image2: "/images/dynamique.jpg",
+        image3: "/images/Se-connaitre.jpg",
     },
     trainers: {
         title: "Vos enseignements en Ennéagramme Évolutif",
